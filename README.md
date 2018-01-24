@@ -9,5 +9,5 @@ Barnea E. and Ben-Shahar O., On the Utility of Context (or the Lack Thereof) for
 
 ### Folders
 
-src - all code and implementation of the tools and analyses described in the paper.
-lit_summary - the summary of detection improvement obtained by previous methods (including visualization tools).
+ - src - all code and implementation of the tools and analyses described in the paper.
+ - lit_summary - the summary of detection improvement obtained by previous methods (including visualization tools).
