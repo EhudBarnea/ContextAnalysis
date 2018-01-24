@@ -1,3 +1,6 @@
+# Generate figures that summarize the results of different papers 
+# that employ context in object detection. Paper results are provided in lit_summary.xlsx.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from operator import itemgetter

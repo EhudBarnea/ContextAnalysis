@@ -1,5 +1,5 @@
-out
-src/_*
-src/.*
+/out
+/src/_*
+/src/.*
 
 *.pyc
